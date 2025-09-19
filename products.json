@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Nova X",
+    "price": 899.99,
+    "description": "Flagship smartphone with a 6.7-inch AMOLED display, triple-lens camera, and 5G connectivity.",
+    "image": "./images/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Laptop TitanBook 14",
+    "price": 1299.00,
+    "description": "Ultra-slim laptop with Intel i7 processor, 16GB RAM, 1TB SSD, and a 14-inch Retina display.",
+    "image": "./images/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch Pulse S3",
+    "price": 249.99,
+    "description": "Fitness-focused smartwatch with GPS, heart rate monitor, sleep tracking, and water resistance.",
+    "image": "./images/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Airbuds EchoPods",
+    "price": 149.99,
+    "description": "Compact true wireless earbuds with touch controls, noise isolation, and 24-hour battery life.",
+    "image": "./images/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Noise-Canceling Headphones QuietMax 700",
+    "price": 299.99,
+    "description": "Premium over-ear headphones with adaptive noise cancellation and studio-quality sound.",
+    "image": "./images/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard CoreType MX",
+    "price": 119.99,
+    "description": "RGB-backlit mechanical keyboard with hot-swappable switches and ergonomic wrist rest.",
+    "image": "./images/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Mouse GlidePro V2",
+    "price": 59.99,
+    "description": "Precision wireless mouse with adjustable DPI, silent clicks, and rechargeable battery.",
+    "image": "./images/7.png"
+  },
+  {
+    "id": 8,
+    "name": "VR Headset VisionOne XR",
+    "price": 399.00,
+    "description": "Immersive VR headset with 4K resolution, 6DoF tracking, and wide game compatibility.",
+    "image": "./images/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Electric Sportscar Velocity Z",
+    "price": 74999.00,
+    "description": "High-performance electric sportscar with 0–60 mph in 3.2 seconds and 320-mile range.",
+    "image": "./images/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speakers SonicBlast Mini",
+    "price": 89.99,
+    "description": "Portable Bluetooth speakers with deep bass, stereo pairing, and splash-proof design.",
+    "image": "./images/10.png"
+  }
+]
