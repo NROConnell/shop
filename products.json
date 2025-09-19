@@ -25,7 +25,7 @@
     "name": "Wireless Airbuds EchoPods",
     "price": 149.99,
     "description": "Compact true wireless earbuds with touch controls, noise isolation, and 24-hour battery life.",
-    "image": "./4.png"
+    "image": "https://github.com/NROConnell/shop/blob/main/4.png?raw=true"
   },
   {
     "id": 5,
