@@ -4,69 +4,209 @@
     "name": "Smartphone Nova X",
     "price": 899.99,
     "description": "Flagship smartphone with a 6.7-inch AMOLED display, triple-lens camera, and 5G connectivity.",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23900973/Galaxy_S22_Bora_Purple_Front.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+    "image": "https://m.media-amazon.com/images/I/61jUea+AOCL._AC_SL1254_.jpg"
   },
   {
     "id": 2,
     "name": "Laptop TitanBook 14",
     "price": 1299.00,
     "description": "Ultra-slim laptop with Intel i7 processor, 16GB RAM, 1TB SSD, and a 14-inch Retina display.",
-    "image": "https://m.media-amazon.com/images/I/417I6e9e-OL._QL92_SH45_SS200_.jpg"
+    "image": "https://m.media-amazon.com/images/I/71Mcg5JdQ+L._AC_SL1500_.jpg"
   },
   {
     "id": 3,
     "name": "Smartwatch Pulse S3",
     "price": 249.99,
     "description": "Fitness-focused smartwatch with GPS, heart rate monitor, sleep tracking, and water resistance.",
-    "image": "https://dilutee.com/cdn/shop/products/q9-smart-watch-dilutee-723.jpg?v=1634313223"
+    "image": "https://m.media-amazon.com/images/I/51JNsCR32BL._AC_SL1500_.jpg"
   },
   {
     "id": 4,
     "name": "Wireless Airbuds EchoPods",
     "price": 149.99,
     "description": "Compact true wireless earbuds with touch controls, noise isolation, and 24-hour battery life.",
-    "image": "https://happyplugs.com/cdn/shop/products/JoyPurple3_0a403ade-636f-4822-b641-995c0995ce2c_800x.jpg?v=1665718222"
+    "image": "https://m.media-amazon.com/images/I/51TUzSTqXEL._AC_SL1500_.jpg"
   },
   {
     "id": 5,
     "name": "Noise-Canceling Headphones QuietMax 700",
     "price": 299.99,
     "description": "Premium over-ear headphones with adaptive noise cancellation and studio-quality sound.",
-    "image": "https://www.slickwraps.com/cdn/shop/files/Color_Purple_54025a7c-ea4a-4854-a9f8-c71126bfb9f9.jpg?v=1711883474"
+    "image": "https://m.media-amazon.com/images/I/61l8-9n1xfL._AC_SL1500_.jpg"
   },
   {
     "id": 6,
     "name": "Mechanical Keyboard CoreType MX",
     "price": 119.99,
     "description": "RGB-backlit mechanical keyboard with hot-swappable switches and ergonomic wrist rest.",
-    "image": "https://m.media-amazon.com/images/I/61-1XZC9WlL.jpg"
+    "image": "https://m.media-amazon.com/images/I/51r8UErJjqL._AC_.jpg"
   },
   {
     "id": 7,
     "name": "Wireless Mouse GlidePro V2",
     "price": 59.99,
     "description": "Precision wireless mouse with adjustable DPI, silent clicks, and rechargeable battery.",
-    "image": "https://m.media-amazon.com/images/I/51a0CIAwHcL._UF1000,1000_QL80_.jpg"
+    "image": "https://m.media-amazon.com/images/I/41G+qTbkY8L._AC_SL1500_.jpg"
   },
   {
     "id": 8,
     "name": "VR Headset VisionOne XR",
     "price": 399.00,
     "description": "Immersive VR headset with 4K resolution, 6DoF tracking, and wide game compatibility.",
-    "image": "https://m.media-amazon.com/images/I/41S9ARs4UXL._UF1000,1000_QL80_.jpg"
+    "image": "https://m.media-amazon.com/images/I/51Lw-0JSihL._AC_SL1024_.jpg"
   },
   {
     "id": 9,
     "name": "Electric Sportscar Velocity Z",
     "price": 74999.00,
     "description": "High-performance electric sportscar with 0–60 mph in 3.2 seconds and 320-mile range.",
-    "image": "https://media.bleumag.com/brand-img/LRD8K5BFe/0x0/dsc05552-min-1688754136460.jpg"
+    "image": "https://m.media-amazon.com/images/I/61FO8iSJxYL._AC_SL1500_.jpg"
   },
   {
     "id": 10,
     "name": "Bluetooth Speakers SonicBlast Mini",
     "price": 89.99,
     "description": "Portable Bluetooth speakers with deep bass, stereo pairing, and splash-proof design.",
-    "image": "https://www.123dj.com/speakers/hifi/PB850LED_Angle_2_1024x1024.jpg"
+    "image": "https://m.media-amazon.com/images/I/915Y+MKolKL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Smart Thermostat ClimateIQ",
+    "price": 179.99,
+    "description": "Wi-Fi enabled thermostat with learning algorithms and voice assistant integration.",
+    "image": "https://m.media-amazon.com/images/I/61doON2cgkL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Drone SkySnap 4K",
+    "price": 499.00,
+    "description": "Compact drone with 4K camera, GPS stabilization, and auto-return feature.",
+    "image": "https://m.media-amazon.com/images/I/51kMFvOFy+L._AC_SL1000_.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Portable SSD FlashDrive X1",
+    "price": 139.99,
+    "description": "1TB USB-C SSD with ultra-fast read/write speeds and shock-resistant casing.",
+    "image": "https://m.media-amazon.com/images/I/614KXVDykNL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Smart Light Bulb GlowTech RGB",
+    "price": 29.99,
+    "description": "Color-changing LED bulb with app control and voice assistant compatibility.",
+    "image": "https://m.media-amazon.com/images/I/71D7PmLCRoL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Gaming Monitor HyperView 27",
+    "price": 349.99,
+    "description": "27-inch 144Hz gaming monitor with 1ms response time and G-Sync support.",
+    "image": "https://m.media-amazon.com/images/I/71xRRLmexWL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Streaming Webcam ClearCast HD",
+    "price": 89.99,
+    "description": "1080p webcam with autofocus, stereo mic, and low-light correction.",
+    "image": "https://m.media-amazon.com/images/I/61Q5p1BQ+9L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Smart Doorbell RingGuard Pro",
+    "price": 199.99,
+    "description": "Video doorbell with motion detection, two-way audio, and cloud recording.",
+    "image": "https://m.media-amazon.com/images/I/61oWFRGTHGL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Wireless Charger PadVolt",
+    "price": 49.99,
+    "description": "Fast wireless charging pad compatible with Qi-enabled devices and USB-C input.",
+    "image": "https://images.mobilefun.co.uk/graphics/450pixelp/97014.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Fitness Tracker FitBand Neo",
+    "price": 79.99,
+    "description": "Slim fitness tracker with step counter, sleep analysis, and waterproof design.",
+    "image": "https://m.media-amazon.com/images/I/61P+PpJyj3L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Smart Glasses VisionLite AR",
+    "price": 599.00,
+    "description": "Augmented reality glasses with heads-up display and gesture control.",
+    "image": "https://m.media-amazon.com/images/I/511WFM0bAXL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Mini Projector BeamBox Pico",
+    "price": 229.99,
+    "description": "Pocket-sized projector with HDMI input and 1080p resolution.",
+    "image": "https://m.media-amazon.com/images/I/71E31EL5PxL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Smart Plug VoltLink Duo",
+    "price": 39.99,
+    "description": "Dual-outlet smart plug with energy monitoring and remote scheduling.",
+    "image": "https://m.media-amazon.com/images/I/61DvoWWqHmL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Laptop Stand ErgoLift Pro",
+    "price": 49.99,
+    "description": "Adjustable aluminum laptop stand with cooling vents and cable management.",
+    "image": "https://m.media-amazon.com/images/I/51jPUjGUxnL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Gaming Controller FlexPad Elite",
+    "price": 69.99,
+    "description": "Wireless controller with haptic feedback and customizable button mapping.",
+    "image": "https://m.media-amazon.com/images/I/51Nc3du0DnL._SL1500_.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Smart Scale BodyTrack 360",
+    "price": 99.99,
+    "description": "Bluetooth smart scale with body composition analysis and app syncing.",
+    "image": "https://m.media-amazon.com/images/I/61EDsPc8DGL._SL1280_.jpg"
+  },
+  {
+    "id": 26,
+    "name": "USB-C Hub ConnectMate 7-in-1",
+    "price": 59.99,
+    "description": "Multi-port hub with HDMI, USB 3.0, SD card reader, and power delivery.",
+    "image": "https://m.media-amazon.com/images/I/51INDBx7TzL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Smart Lock SecureEntry X",
+    "price": 229.99,
+    "description": "Keyless smart lock with fingerprint access and mobile app control.",
+    "image": "https://m.media-amazon.com/images/I/61BQNigxu9L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Noise-Canceling Earbuds ZenBuds",
+    "price": 179.99,
+    "description": "In-ear ANC earbuds with ambient mode and wireless charging case.",
+    "image": "https://m.media-amazon.com/images/I/61jNNfbIx1L._AC_SL1500_.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Smart Display InfoPanel 10",
+    "price": 149.99,
+    "description": "10-inch smart display with voice assistant, calendar, and video calling.",
+    "image": "https://m.media-amazon.com/images/I/71VzTbxuFkL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Portable Power Bank ChargeMax 20K",
+    "price": 69.99,
+    "description": "20,000mAh power bank with fast charging and dual USB output.",
+    "image": "https://m.media-amazon.com/images/I/71CVmqqRhhL._AC_SL1500_.jpg"
   }
 ]

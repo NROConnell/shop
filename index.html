@@ -4,23 +4,35 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Purple Tech Shop</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <nav>
     <h1>Purple Tech</h1>
-    <div class="cart-icon">
-      🛒 <span id="cart-count">0</span>
+    <div class="nav-controls">
+      <input type="text" id="search-box" placeholder="Search..." />
+      <select id="sort-options">
+        <option value="">Sort</option>
+        <option value="price-asc">Price ↑</option>
+        <option value="price-desc">Price ↓</option>
+        <option value="name-asc">Name A→Z</option>
+      </select>
+      <div class="cart-icon">🛒 <span id="cart-count">0</span></div>
     </div>
   </nav>
 
   <main>
-    <section id="products-container"></section>
-    <aside id="cart">
-      <h2>Your Cart</h2>
-      <ul id="cart-items"></ul>
-      <p id="cart-total">Total: $0.00</p>
-    </aside>
+    <div class="content">
+      <section id="products-container"></section>
+      <aside id="cart">
+        <h2>Your Cart</h2>
+        <ul id="cart-items"></ul>
+        <p id="cart-total">Total: $0.00</p>
+      </aside>
+    </div>
+
+    <div id="pagination" class="pagination"></div>
   </main>
 
   <script src="script.js"></script>
